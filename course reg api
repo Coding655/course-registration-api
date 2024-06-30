@@ -1,0 +1,65 @@
+[
+    {
+      "course_name": "Introduction to Python",
+      "course_description": "Learn the basics of Python programming, including syntax, data structures, and basic algorithms.",
+      "image": "https://i.ibb.co/1TsQw67/49663569-9284551.jpg",
+      "price": 49.99,
+      "course_time": 6
+    },
+    {
+      "course_name": "Online Collage",
+      "course_description": "Master the foundational technologies for building modern, responsive websites.",
+      "image": "https://i.ibb.co/SXMhv4T/58493793-9407418.jpg",
+      "price": 59.99,
+      "course_time": 8
+    },
+    {
+      "course_name": "JavaScript Essentials",
+      "course_description": "A comprehensive guide to JavaScript, focusing on core concepts, functions, and web integration.",
+      "image": "https://i.ibb.co/ZVSZG6m/16934905-5797266.jpg",
+      "price": 69.99,
+      "course_time": 10
+    },
+    {
+      "course_name": "Data Analysis with Python",
+      "course_description": "Learn how to analyze data using Python libraries such as Pandas, NumPy, and Matplotlib.",
+      "image": "https://i.ibb.co/hMbKwL6/12893343-5100046.jpg",
+      "price": 79.99,
+      "course_time": 12
+    },
+    {
+      "course_name": "Machine Learning Basics",
+      "course_description": "An introduction to machine learning concepts, including supervised and unsupervised learning techniques.",
+      "image": "https://i.ibb.co/Jq6Pw3y/13297174-5203982.jpg",
+      "price": 89.99,
+      "course_time": 15
+    },
+    {
+      "course_name": "React for Beginners",
+      "course_description": "A step-by-step guide to building interactive user interfaces with React.js.",
+      "image": "https://i.ibb.co/87spZPb/22891617-6712468.jpg",
+      "price": 69.99,
+      "course_time": 10
+    },
+    {
+      "course_name": "Introduction to Cybersecurity",
+      "course_description": "Learn about the fundamental principles of cybersecurity, including threat detection and prevention.",
+      "image": "https://i.ibb.co/HKwK05d/22891630-6712471.jpg",
+      "price": 99.99,
+      "course_time": 20
+    },
+    {
+      "course_name": "Digital Marketing 101",
+      "course_description": "An overview of digital marketing strategies, including SEO, content marketing, and social media marketing.",
+      "image": "https://i.ibb.co/XkXxft6/25579351-7107111.jpg",
+      "price": 59.99,
+      "course_time": 8
+    },
+    {
+      "course_name": "UX/UI Design Fundamentals",
+      "course_description": "Learn the basics of user experience and user interface design to create engaging digital products.",
+      "image": "https://i.ibb.co/L5WcxCg/14456961-5472396.jpg",
+      "price": 79.99,
+      "course_time": 12
+    }
+  ]
